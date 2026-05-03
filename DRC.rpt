@@ -1,0 +1,879 @@
+** Drc report for secukey.kicad_pcb **
+** Created on 2026-05-01T23:07:22 **
+** Report includes: Warnings **
+
+** Found 226 DRC violations **
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 111.3600 mm): Segment de C2 sur F.Silkscreen
+    @(156.5200 mm, 111.0000 mm): Pad 2 [RP2350B_VREG-PGND] de C2 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 111.3600 mm): Segment de C2 sur F.Silkscreen
+    @(157.4800 mm, 111.0000 mm): Pad 1 [RP2350B_VREG-FB] de C2 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 112.3600 mm): Segment de C1 sur F.Silkscreen
+    @(156.5200 mm, 112.0000 mm): Pad 2 [RP2350B_VREG-PGND] de C1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 112.3600 mm): Segment de C1 sur F.Silkscreen
+    @(157.4800 mm, 112.0000 mm): Pad 1 [RP2350B_VREG-VIN] de C1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 111.6400 mm): Segment de C1 sur F.Silkscreen
+    @(156.5200 mm, 112.0000 mm): Pad 2 [RP2350B_VREG-PGND] de C1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 111.6400 mm): Segment de C1 sur F.Silkscreen
+    @(157.4800 mm, 112.0000 mm): Pad 1 [RP2350B_VREG-VIN] de C1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.6078 mm, 114.1400 mm): Segment de C5 sur F.Silkscreen
+    @(164.0200 mm, 114.5000 mm): Pad 2 [RP2350B_VREG-PGND] de C5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.6078 mm, 114.1400 mm): Segment de C5 sur F.Silkscreen
+    @(164.9800 mm, 114.5000 mm): Pad 1 [RP2350B_VREG-VIN] de C5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.6078 mm, 114.8600 mm): Segment de C5 sur F.Silkscreen
+    @(164.0200 mm, 114.5000 mm): Pad 2 [RP2350B_VREG-PGND] de C5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.6078 mm, 114.8600 mm): Segment de C5 sur F.Silkscreen
+    @(164.9800 mm, 114.5000 mm): Pad 1 [RP2350B_VREG-VIN] de C5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.6078 mm, 114.8600 mm): Segment de C4 sur F.Silkscreen
+    @(167.0200 mm, 114.5000 mm): Pad 2 [RP2350B_VREG-PGND] de C4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.6078 mm, 114.8600 mm): Segment de C4 sur F.Silkscreen
+    @(167.9800 mm, 114.5000 mm): Pad 1 [VBUS] de C4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.6078 mm, 114.1400 mm): Segment de C4 sur F.Silkscreen
+    @(167.0200 mm, 114.5000 mm): Pad 2 [RP2350B_VREG-PGND] de C4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.6078 mm, 114.1400 mm): Segment de C4 sur F.Silkscreen
+    @(167.9800 mm, 114.5000 mm): Pad 1 [VBUS] de C4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 110.6400 mm): Segment de C2 sur F.Silkscreen
+    @(156.5200 mm, 111.0000 mm): Pad 2 [RP2350B_VREG-PGND] de C2 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 110.6400 mm): Segment de C2 sur F.Silkscreen
+    @(157.4800 mm, 111.0000 mm): Pad 1 [RP2350B_VREG-FB] de C2 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 107.3600 mm): Segment de C15 sur F.Silkscreen
+    @(156.9800 mm, 107.0000 mm): Pad 2 [RP2350B_VREG-PGND] de C15 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 107.3600 mm): Segment de C15 sur F.Silkscreen
+    @(156.0200 mm, 107.0000 mm): Pad 1 [RP2350B_VREG-FB] de C15 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 106.6400 mm): Segment de C15 sur F.Silkscreen
+    @(156.9800 mm, 107.0000 mm): Pad 2 [RP2350B_VREG-PGND] de C15 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 106.6400 mm): Segment de C15 sur F.Silkscreen
+    @(156.0200 mm, 107.0000 mm): Pad 1 [RP2350B_VREG-FB] de C15 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 96.3600 mm): Segment de C21 sur F.Silkscreen
+    @(156.5200 mm, 96.0000 mm): Pad 2 [RP2350B_VREG-VIN] de C21 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 96.3600 mm): Segment de C21 sur F.Silkscreen
+    @(157.4800 mm, 96.0000 mm): Pad 1 [RP2350B_VREG-PGND] de C21 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 95.6400 mm): Segment de C21 sur F.Silkscreen
+    @(156.5200 mm, 96.0000 mm): Pad 2 [RP2350B_VREG-VIN] de C21 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.1078 mm, 95.6400 mm): Segment de C21 sur F.Silkscreen
+    @(157.4800 mm, 96.0000 mm): Pad 1 [RP2350B_VREG-PGND] de C21 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.6536 mm, 94.3800 mm): Segment de R10 sur F.Silkscreen
+    @(156.9900 mm, 94.0000 mm): Pad 2 [RP2350B_VREG-VIN] de R10 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.6536 mm, 94.3800 mm): Segment de R10 sur F.Silkscreen
+    @(158.0100 mm, 94.0000 mm): Pad 1 [RP2350B_GPIO5] de R10 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.6536 mm, 93.6200 mm): Segment de R10 sur F.Silkscreen
+    @(156.9900 mm, 94.0000 mm): Pad 2 [RP2350B_VREG-VIN] de R10 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.6536 mm, 93.6200 mm): Segment de R10 sur F.Silkscreen
+    @(158.0100 mm, 94.0000 mm): Pad 1 [RP2350B_GPIO5] de R10 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.6078 mm, 100.8600 mm): Segment de C20 sur F.Silkscreen
+    @(159.0200 mm, 100.5000 mm): Pad 2 [Net-(C20-Pad2)] de C20 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.6078 mm, 100.8600 mm): Segment de C20 sur F.Silkscreen
+    @(159.9800 mm, 100.5000 mm): Pad 1 [RP2350B_VREG-PGND] de C20 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.6078 mm, 100.1400 mm): Segment de C20 sur F.Silkscreen
+    @(159.0200 mm, 100.5000 mm): Pad 2 [Net-(C20-Pad2)] de C20 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.6078 mm, 100.1400 mm): Segment de C20 sur F.Silkscreen
+    @(159.9800 mm, 100.5000 mm): Pad 1 [RP2350B_VREG-PGND] de C20 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.8800 mm, 102.3464 mm): Segment de R8 sur F.Silkscreen
+    @(159.5000 mm, 103.0100 mm): Pad 2 [RP2350B_XOUT] de R8 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.8800 mm, 102.3464 mm): Segment de R8 sur F.Silkscreen
+    @(159.5000 mm, 101.9900 mm): Pad 1 [Net-(C20-Pad2)] de R8 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.1200 mm, 102.3464 mm): Segment de R8 sur F.Silkscreen
+    @(159.5000 mm, 103.0100 mm): Pad 2 [RP2350B_XOUT] de R8 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.1200 mm, 102.3464 mm): Segment de R8 sur F.Silkscreen
+    @(159.5000 mm, 101.9900 mm): Pad 1 [Net-(C20-Pad2)] de R8 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 103.8600 mm): Segment de C16 sur F.Silkscreen
+    @(156.9800 mm, 103.5000 mm): Pad 2 [RP2350B_VREG-PGND] de C16 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 103.8600 mm): Segment de C16 sur F.Silkscreen
+    @(156.0200 mm, 103.5000 mm): Pad 1 [RP2350B_VREG-FB] de C16 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 103.1400 mm): Segment de C16 sur F.Silkscreen
+    @(156.9800 mm, 103.5000 mm): Pad 2 [RP2350B_VREG-PGND] de C16 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 103.1400 mm): Segment de C16 sur F.Silkscreen
+    @(156.0200 mm, 103.5000 mm): Pad 1 [RP2350B_VREG-FB] de C16 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 100.8600 mm): Segment de C17 sur F.Silkscreen
+    @(156.9800 mm, 100.5000 mm): Pad 2 [RP2350B_VREG-PGND] de C17 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 100.8600 mm): Segment de C17 sur F.Silkscreen
+    @(156.0200 mm, 100.5000 mm): Pad 1 [RP2350B_VREG-FB] de C17 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 100.1400 mm): Segment de C17 sur F.Silkscreen
+    @(156.9800 mm, 100.5000 mm): Pad 2 [RP2350B_VREG-PGND] de C17 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.3922 mm, 100.1400 mm): Segment de C17 sur F.Silkscreen
+    @(156.0200 mm, 100.5000 mm): Pad 1 [RP2350B_VREG-FB] de C17 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.8600 mm, 103.1078 mm): Segment de C19 sur F.Silkscreen
+    @(167.5000 mm, 102.5200 mm): Pad 2 [RP2350B_XIN] de C19 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.8600 mm, 103.1078 mm): Segment de C19 sur F.Silkscreen
+    @(167.5000 mm, 103.4800 mm): Pad 1 [RP2350B_VREG-PGND] de C19 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.1400 mm, 103.1078 mm): Segment de C19 sur F.Silkscreen
+    @(167.5000 mm, 102.5200 mm): Pad 2 [RP2350B_XIN] de C19 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.1400 mm, 103.1078 mm): Segment de C19 sur F.Silkscreen
+    @(167.5000 mm, 103.4800 mm): Pad 1 [RP2350B_VREG-PGND] de C19 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(169.1400 mm, 98.3200 mm): Segment de U6 sur F.Silkscreen
+    @(168.4400 mm, 94.7000 mm): Pad 4 [RP2350B_VREG-PGND] de U6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(169.1400 mm, 98.3200 mm): Segment de U6 sur F.Silkscreen
+    @(168.4400 mm, 99.3000 mm): Pad 5 [RP2350B_VREG-PGND] de U6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.8900 mm, 99.5000 mm): Segment de U6 sur F.Silkscreen
+    @(164.5600 mm, 98.0000 mm): Pad 1 [RP2350B_SWCLK] de U6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.8900 mm, 99.5000 mm): Segment de U6 sur F.Silkscreen
+    @(168.4400 mm, 99.3000 mm): Pad 5 [RP2350B_VREG-PGND] de U6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.7500 mm, 103.6000 mm): Cercle de U5 sur F.Silkscreen
+    @(163.3500 mm, 103.1000 mm): Pad 1 [RP2350B_XIN] de U5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.3600 mm, 111.1078 mm): Segment de C3 sur F.Silkscreen
+    @(151.0000 mm, 110.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C3 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.3600 mm, 111.1078 mm): Segment de C3 sur F.Silkscreen
+    @(151.0000 mm, 111.4800 mm): Pad 1 [RP2350B_VREG-AVDD] de C3 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(150.6400 mm, 111.1078 mm): Segment de C3 sur F.Silkscreen
+    @(151.0000 mm, 110.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C3 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(150.6400 mm, 111.1078 mm): Segment de C3 sur F.Silkscreen
+    @(151.0000 mm, 111.4800 mm): Pad 1 [RP2350B_VREG-AVDD] de C3 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(154.2700 mm, 111.7000 mm): Segment de L1 sur F.Silkscreen
+    @(153.0000 mm, 112.5000 mm): Pad 2 [RP2350B_VREG-LX] de L1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(154.2700 mm, 111.7000 mm): Segment de L1 sur F.Silkscreen
+    @(155.0000 mm, 112.5000 mm): Pad 1 [RP2350B_VREG-FB] de L1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.3800 mm, 112.8464 mm): Segment de R1 sur F.Silkscreen
+    @(151.0000 mm, 113.5100 mm): Pad 2 [RP2350B_VREG-AVDD] de R1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.3800 mm, 112.8464 mm): Segment de R1 sur F.Silkscreen
+    @(151.0000 mm, 112.4900 mm): Pad 1 [RP2350B_VREG-VIN] de R1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(150.6200 mm, 112.8464 mm): Segment de R1 sur F.Silkscreen
+    @(151.0000 mm, 113.5100 mm): Pad 2 [RP2350B_VREG-AVDD] de R1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(150.6200 mm, 112.8464 mm): Segment de R1 sur F.Silkscreen
+    @(151.0000 mm, 112.4900 mm): Pad 1 [RP2350B_VREG-VIN] de R1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0450 mm)
+    Rule: Pad to Silkscreen; warning
+    @(153.1000 mm, 113.6000 mm): Cercle de L1 sur F.Silkscreen
+    @(153.0000 mm, 112.5000 mm): Pad 2 [RP2350B_VREG-LX] de L1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(154.2700 mm, 113.3000 mm): Segment de L1 sur F.Silkscreen
+    @(153.0000 mm, 112.5000 mm): Pad 2 [RP2350B_VREG-LX] de L1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(154.2700 mm, 113.3000 mm): Segment de L1 sur F.Silkscreen
+    @(155.0000 mm, 112.5000 mm): Pad 1 [RP2350B_VREG-FB] de L1 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.8464 mm, 99.3800 mm): Segment de R7 sur F.Silkscreen
+    @(150.5100 mm, 99.0000 mm): Pad 2 [RP2350B_QSPI_SS] de R7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.8464 mm, 99.3800 mm): Segment de R7 sur F.Silkscreen
+    @(149.4900 mm, 99.0000 mm): Pad 1 [Net-(R7-Pad1)] de R7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.8464 mm, 98.6200 mm): Segment de R7 sur F.Silkscreen
+    @(150.5100 mm, 99.0000 mm): Pad 2 [RP2350B_QSPI_SS] de R7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.8464 mm, 98.6200 mm): Segment de R7 sur F.Silkscreen
+    @(149.4900 mm, 99.0000 mm): Pad 1 [Net-(R7-Pad1)] de R7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(147.1536 mm, 100.3800 mm): Segment de R14 sur F.Silkscreen
+    @(146.4900 mm, 100.0000 mm): Pad 2 [Net-(U2-RUN)] de R14 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(147.1536 mm, 100.3800 mm): Segment de R14 sur F.Silkscreen
+    @(147.5100 mm, 100.0000 mm): Pad 1 [Net-(R14-Pad1)] de R14 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(147.1536 mm, 99.6200 mm): Segment de R14 sur F.Silkscreen
+    @(146.4900 mm, 100.0000 mm): Pad 2 [Net-(U2-RUN)] de R14 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(147.1536 mm, 99.6200 mm): Segment de R14 sur F.Silkscreen
+    @(147.5100 mm, 100.0000 mm): Pad 1 [Net-(R14-Pad1)] de R14 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.8800 mm, 115.3464 mm): Segment de R12 sur F.Silkscreen
+    @(146.5000 mm, 116.0100 mm): Pad 2 [Net-(U2-USB_DM)] de R12 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.8800 mm, 115.3464 mm): Segment de R12 sur F.Silkscreen
+    @(146.5000 mm, 114.9900 mm): Pad 1 [/USB_D+] de R12 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.1200 mm, 115.3464 mm): Segment de R12 sur F.Silkscreen
+    @(146.5000 mm, 116.0100 mm): Pad 2 [Net-(U2-USB_DM)] de R12 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.1200 mm, 115.3464 mm): Segment de R12 sur F.Silkscreen
+    @(146.5000 mm, 114.9900 mm): Pad 1 [/USB_D+] de R12 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(148.3800 mm, 115.3464 mm): Segment de R11 sur F.Silkscreen
+    @(148.0000 mm, 116.0100 mm): Pad 2 [Net-(U2-USB_DP)] de R11 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(148.3800 mm, 115.3464 mm): Segment de R11 sur F.Silkscreen
+    @(148.0000 mm, 114.9900 mm): Pad 1 [/USB_D-] de R11 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(147.6200 mm, 115.3464 mm): Segment de R11 sur F.Silkscreen
+    @(148.0000 mm, 116.0100 mm): Pad 2 [Net-(U2-USB_DP)] de R11 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(147.6200 mm, 115.3464 mm): Segment de R11 sur F.Silkscreen
+    @(148.0000 mm, 114.9900 mm): Pad 1 [/USB_D-] de R11 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(155.2000 mm, 84.0000 mm): Segment de SW4 sur F.Silkscreen
+    @(155.0700 mm, 83.3000 mm): Pad 4 [unconnected-(SW4-Pad4)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(155.2000 mm, 84.0000 mm): Segment de SW4 sur F.Silkscreen
+    @(158.9300 mm, 83.3000 mm): Pad 3 [Net-(R14-Pad1)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(155.2000 mm, 83.9300 mm): Segment de SW4 sur F.Silkscreen
+    @(155.0700 mm, 83.3000 mm): Pad 4 [unconnected-(SW4-Pad4)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(158.8000 mm, 82.3300 mm): Segment de SW4 sur F.Silkscreen
+    @(158.9300 mm, 83.3000 mm): Pad 3 [Net-(R14-Pad1)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(158.8000 mm, 82.3300 mm): Segment de SW4 sur F.Silkscreen
+    @(158.9300 mm, 81.7000 mm): Pad 2 [RP2350B_VREG-PGND] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(158.8000 mm, 81.0000 mm): Segment de SW4 sur F.Silkscreen
+    @(158.9300 mm, 81.7000 mm): Pad 2 [RP2350B_VREG-PGND] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(155.2000 mm, 82.3300 mm): Segment de SW4 sur F.Silkscreen
+    @(155.0700 mm, 83.3000 mm): Pad 4 [unconnected-(SW4-Pad4)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(155.2000 mm, 82.3300 mm): Segment de SW4 sur F.Silkscreen
+    @(155.0700 mm, 81.7000 mm): Pad 1 [unconnected-(SW4-Pad1)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(155.2000 mm, 81.0000 mm): Segment de SW4 sur F.Silkscreen
+    @(158.9300 mm, 81.7000 mm): Pad 2 [RP2350B_VREG-PGND] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(155.2000 mm, 81.0000 mm): Segment de SW4 sur F.Silkscreen
+    @(155.0700 mm, 81.7000 mm): Pad 1 [unconnected-(SW4-Pad1)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(155.2000 mm, 81.0000 mm): Segment de SW4 sur F.Silkscreen
+    @(155.0700 mm, 81.7000 mm): Pad 1 [unconnected-(SW4-Pad1)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(158.3600 mm, 88.1078 mm): Segment de C7 sur F.Silkscreen
+    @(158.0000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(158.3600 mm, 88.1078 mm): Segment de C7 sur F.Silkscreen
+    @(158.0000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.6400 mm, 88.1078 mm): Segment de C7 sur F.Silkscreen
+    @(158.0000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.6400 mm, 88.1078 mm): Segment de C7 sur F.Silkscreen
+    @(158.0000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.8600 mm, 88.1078 mm): Segment de C8 sur F.Silkscreen
+    @(159.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C8 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.8600 mm, 88.1078 mm): Segment de C8 sur F.Silkscreen
+    @(159.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C8 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.1400 mm, 88.1078 mm): Segment de C8 sur F.Silkscreen
+    @(159.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C8 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.1400 mm, 88.1078 mm): Segment de C8 sur F.Silkscreen
+    @(159.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C8 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.8600 mm, 88.1078 mm): Segment de C6 sur F.Silkscreen
+    @(156.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.8600 mm, 88.1078 mm): Segment de C6 sur F.Silkscreen
+    @(156.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.1400 mm, 88.1078 mm): Segment de C6 sur F.Silkscreen
+    @(156.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(156.1400 mm, 88.1078 mm): Segment de C6 sur F.Silkscreen
+    @(156.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(158.8000 mm, 83.9300 mm): Segment de SW4 sur F.Silkscreen
+    @(158.9300 mm, 83.3000 mm): Pad 3 [Net-(R14-Pad1)] de SW4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(165.8600 mm, 88.1078 mm): Segment de C12 sur F.Silkscreen
+    @(165.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C12 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(165.8600 mm, 88.1078 mm): Segment de C12 sur F.Silkscreen
+    @(165.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C12 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(165.1400 mm, 88.1078 mm): Segment de C12 sur F.Silkscreen
+    @(165.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C12 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(165.1400 mm, 88.1078 mm): Segment de C12 sur F.Silkscreen
+    @(165.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C12 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.3600 mm, 88.1078 mm): Segment de C13 sur F.Silkscreen
+    @(167.0000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C13 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.3600 mm, 88.1078 mm): Segment de C13 sur F.Silkscreen
+    @(167.0000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C13 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(166.6400 mm, 88.1078 mm): Segment de C13 sur F.Silkscreen
+    @(167.0000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C13 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(166.6400 mm, 88.1078 mm): Segment de C13 sur F.Silkscreen
+    @(167.0000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C13 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.6536 mm, 93.3800 mm): Segment de R9 sur F.Silkscreen
+    @(162.9900 mm, 93.0000 mm): Pad 2 [RP2350B_VREG-VIN] de R9 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.6536 mm, 93.3800 mm): Segment de R9 sur F.Silkscreen
+    @(164.0100 mm, 93.0000 mm): Pad 1 [RP2350B_GPIO4] de R9 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.6536 mm, 92.6200 mm): Segment de R9 sur F.Silkscreen
+    @(162.9900 mm, 93.0000 mm): Pad 2 [RP2350B_VREG-VIN] de R9 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.6536 mm, 92.6200 mm): Segment de R9 sur F.Silkscreen
+    @(164.0100 mm, 93.0000 mm): Pad 1 [RP2350B_GPIO4] de R9 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.8900 mm, 94.5000 mm): Segment de U6 sur F.Silkscreen
+    @(168.4400 mm, 94.7000 mm): Pad 4 [RP2350B_VREG-PGND] de U6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1050 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.8900 mm, 95.4700 mm): Segment de U6 sur F.Silkscreen
+    @(164.5600 mm, 96.0000 mm): Pad 3 [RP2350B_SWDIO] de U6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(168.8600 mm, 88.1078 mm): Segment de C14 sur F.Silkscreen
+    @(168.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C14 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(168.8600 mm, 88.1078 mm): Segment de C14 sur F.Silkscreen
+    @(168.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C14 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(168.1400 mm, 88.1078 mm): Segment de C14 sur F.Silkscreen
+    @(168.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C14 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(168.1400 mm, 88.1078 mm): Segment de C14 sur F.Silkscreen
+    @(168.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C14 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.5000 mm, 97.5000 mm): Cercle de U7 sur F.Silkscreen
+    @(159.7500 mm, 97.5200 mm): Pad 1 [unconnected-(U7-NC-Pad1)] de U7 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(162.8600 mm, 88.1078 mm): Segment de C10 sur F.Silkscreen
+    @(162.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C10 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(162.8600 mm, 88.1078 mm): Segment de C10 sur F.Silkscreen
+    @(162.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C10 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(162.1400 mm, 88.1078 mm): Segment de C10 sur F.Silkscreen
+    @(162.5000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C10 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(162.1400 mm, 88.1078 mm): Segment de C10 sur F.Silkscreen
+    @(162.5000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C10 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.3600 mm, 88.1078 mm): Segment de C11 sur F.Silkscreen
+    @(164.0000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C11 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.3600 mm, 88.1078 mm): Segment de C11 sur F.Silkscreen
+    @(164.0000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C11 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.6400 mm, 88.1078 mm): Segment de C11 sur F.Silkscreen
+    @(164.0000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C11 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.6400 mm, 88.1078 mm): Segment de C11 sur F.Silkscreen
+    @(164.0000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C11 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.8000 mm, 83.9300 mm): Segment de SW6 sur F.Silkscreen
+    @(164.9300 mm, 83.3000 mm): Pad 3 [Net-(R7-Pad1)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.8000 mm, 82.3300 mm): Segment de SW6 sur F.Silkscreen
+    @(164.9300 mm, 83.3000 mm): Pad 3 [Net-(R7-Pad1)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.8000 mm, 82.3300 mm): Segment de SW6 sur F.Silkscreen
+    @(164.9300 mm, 81.7000 mm): Pad 2 [RP2350B_VREG-PGND] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.8000 mm, 81.0000 mm): Segment de SW6 sur F.Silkscreen
+    @(164.9300 mm, 81.7000 mm): Pad 2 [RP2350B_VREG-PGND] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.2000 mm, 81.0000 mm): Segment de SW6 sur F.Silkscreen
+    @(164.9300 mm, 81.7000 mm): Pad 2 [RP2350B_VREG-PGND] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.2000 mm, 81.0000 mm): Segment de SW6 sur F.Silkscreen
+    @(161.0700 mm, 81.7000 mm): Pad 1 [unconnected-(SW6-Pad1)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.2000 mm, 84.0000 mm): Segment de SW6 sur F.Silkscreen
+    @(161.0700 mm, 83.3000 mm): Pad 4 [unconnected-(SW6-Pad4)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.2000 mm, 84.0000 mm): Segment de SW6 sur F.Silkscreen
+    @(164.9300 mm, 83.3000 mm): Pad 3 [Net-(R7-Pad1)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.2000 mm, 83.9300 mm): Segment de SW6 sur F.Silkscreen
+    @(161.0700 mm, 83.3000 mm): Pad 4 [unconnected-(SW6-Pad4)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.2000 mm, 82.3300 mm): Segment de SW6 sur F.Silkscreen
+    @(161.0700 mm, 83.3000 mm): Pad 4 [unconnected-(SW6-Pad4)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.2000 mm, 82.3300 mm): Segment de SW6 sur F.Silkscreen
+    @(161.0700 mm, 81.7000 mm): Pad 1 [unconnected-(SW6-Pad1)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.2000 mm, 81.0000 mm): Segment de SW6 sur F.Silkscreen
+    @(161.0700 mm, 81.7000 mm): Pad 1 [unconnected-(SW6-Pad1)] de SW6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.3600 mm, 88.1078 mm): Segment de C9 sur F.Silkscreen
+    @(161.0000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C9 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(161.3600 mm, 88.1078 mm): Segment de C9 sur F.Silkscreen
+    @(161.0000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C9 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(160.6400 mm, 88.1078 mm): Segment de C9 sur F.Silkscreen
+    @(161.0000 mm, 87.5200 mm): Pad 2 [RP2350B_VREG-PGND] de C9 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(160.6400 mm, 88.1078 mm): Segment de C9 sur F.Silkscreen
+    @(161.0000 mm, 88.4800 mm): Pad 1 [RP2350B_VREG-VIN] de C9 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.8800 mm, 94.1536 mm): Segment de R6 sur F.Silkscreen
+    @(146.5000 mm, 93.4900 mm): Pad 2 [Net-(U4-~{CS})] de R6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.8800 mm, 94.1536 mm): Segment de R6 sur F.Silkscreen
+    @(146.5000 mm, 94.5100 mm): Pad 1 [RP2350B_QSPI_SS] de R6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.1200 mm, 94.1536 mm): Segment de R6 sur F.Silkscreen
+    @(146.5000 mm, 93.4900 mm): Pad 2 [Net-(U4-~{CS})] de R6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.1200 mm, 94.1536 mm): Segment de R6 sur F.Silkscreen
+    @(146.5000 mm, 94.5100 mm): Pad 1 [RP2350B_QSPI_SS] de R6 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(154.1536 mm, 87.1200 mm): Segment de R13 sur F.Silkscreen
+    @(154.5100 mm, 87.5000 mm): Pad 1 [RP2350B_GPIO2] de R13 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(154.1536 mm, 87.1200 mm): Segment de R13 sur F.Silkscreen
+    @(153.4900 mm, 87.5000 mm): Pad 2 [RP2350B_VREG-VIN] de R13 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(154.1536 mm, 87.8800 mm): Segment de R13 sur F.Silkscreen
+    @(154.5100 mm, 87.5000 mm): Pad 1 [RP2350B_GPIO2] de R13 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(154.1536 mm, 87.8800 mm): Segment de R13 sur F.Silkscreen
+    @(153.4900 mm, 87.5000 mm): Pad 2 [RP2350B_VREG-VIN] de R13 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.1536 mm, 86.8800 mm): Segment de R4 sur F.Silkscreen
+    @(150.4900 mm, 86.5000 mm): Pad 2 [Net-(U4-~{CS})] de R4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.1536 mm, 86.8800 mm): Segment de R4 sur F.Silkscreen
+    @(151.5100 mm, 86.5000 mm): Pad 1 [RP2350B_GPIO0] de R4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.1536 mm, 86.1200 mm): Segment de R4 sur F.Silkscreen
+    @(150.4900 mm, 86.5000 mm): Pad 2 [Net-(U4-~{CS})] de R4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.1536 mm, 86.1200 mm): Segment de R4 sur F.Silkscreen
+    @(151.5100 mm, 86.5000 mm): Pad 1 [RP2350B_GPIO0] de R4 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(148.3464 mm, 86.8800 mm): Segment de R5 sur F.Silkscreen
+    @(149.0100 mm, 86.5000 mm): Pad 2 [Net-(U4-~{CS})] de R5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(148.3464 mm, 86.8800 mm): Segment de R5 sur F.Silkscreen
+    @(147.9900 mm, 86.5000 mm): Pad 1 [RP2350B_VREG-VIN] de R5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(148.3464 mm, 86.1200 mm): Segment de R5 sur F.Silkscreen
+    @(149.0100 mm, 86.5000 mm): Pad 2 [Net-(U4-~{CS})] de R5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(148.3464 mm, 86.1200 mm): Segment de R5 sur F.Silkscreen
+    @(147.9900 mm, 86.5000 mm): Pad 1 [RP2350B_VREG-VIN] de R5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.8600 mm, 90.8922 mm): Segment de C18 sur F.Silkscreen
+    @(146.5000 mm, 91.4800 mm): Pad 2 [RP2350B_VREG-PGND] de C18 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.8600 mm, 90.8922 mm): Segment de C18 sur F.Silkscreen
+    @(146.5000 mm, 90.5200 mm): Pad 1 [RP2350B_VREG-VIN] de C18 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.1400 mm, 90.8922 mm): Segment de C18 sur F.Silkscreen
+    @(146.5000 mm, 91.4800 mm): Pad 2 [RP2350B_VREG-PGND] de C18 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1000 mm)
+    Rule: Pad to Silkscreen; warning
+    @(146.1400 mm, 90.8922 mm): Segment de C18 sur F.Silkscreen
+    @(146.5000 mm, 90.5200 mm): Pad 1 [RP2350B_VREG-VIN] de C18 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.3326 mm, 83.9300 mm): Segment de SW5 sur F.Silkscreen
+    @(149.2026 mm, 83.3000 mm): Pad 4 [RP2350B_GPIO2] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.3326 mm, 81.0000 mm): Segment de SW5 sur F.Silkscreen
+    @(149.2026 mm, 81.7000 mm): Pad 1 [RP2350B_VREG-PGND] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.3326 mm, 81.0000 mm): Segment de SW5 sur F.Silkscreen
+    @(149.2026 mm, 81.7000 mm): Pad 1 [RP2350B_VREG-PGND] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.3326 mm, 81.0000 mm): Segment de SW5 sur F.Silkscreen
+    @(153.0626 mm, 81.7000 mm): Pad 2 [unconnected-(SW5-Pad2)] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.3326 mm, 82.3300 mm): Segment de SW5 sur F.Silkscreen
+    @(149.2026 mm, 81.7000 mm): Pad 1 [RP2350B_VREG-PGND] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.3326 mm, 82.3300 mm): Segment de SW5 sur F.Silkscreen
+    @(149.2026 mm, 83.3000 mm): Pad 4 [RP2350B_GPIO2] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.3326 mm, 84.0000 mm): Segment de SW5 sur F.Silkscreen
+    @(153.0626 mm, 83.3000 mm): Pad 3 [unconnected-(SW5-Pad3)] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,1250 mm)
+    Rule: Pad to Silkscreen; warning
+    @(149.3326 mm, 84.0000 mm): Segment de SW5 sur F.Silkscreen
+    @(149.2026 mm, 83.3000 mm): Pad 4 [RP2350B_GPIO2] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.9326 mm, 81.0000 mm): Segment de SW5 sur F.Silkscreen
+    @(153.0626 mm, 81.7000 mm): Pad 2 [unconnected-(SW5-Pad2)] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.9326 mm, 82.3300 mm): Segment de SW5 sur F.Silkscreen
+    @(153.0626 mm, 81.7000 mm): Pad 2 [unconnected-(SW5-Pad2)] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.9326 mm, 82.3300 mm): Segment de SW5 sur F.Silkscreen
+    @(153.0626 mm, 83.3000 mm): Pad 3 [unconnected-(SW5-Pad3)] de SW5 sur F.Cu
+[silk_overlap]: Marge de sérigraphie (Pad to Silkscreen isolation 0,1500 mm; réel 0,0550 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.9326 mm, 83.9300 mm): Segment de SW5 sur F.Silkscreen
+    @(153.0626 mm, 83.3000 mm): Pad 3 [unconnected-(SW5-Pad3)] de SW5 sur F.Cu
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(159.5000 mm, 99.0000 mm): Champ référence de C20
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(149.8400 mm, 111.0000 mm): Champ référence de C3
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(159.5000 mm, 104.5000 mm): Champ référence de R8
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(159.0000 mm, 111.0000 mm): Champ référence de C2
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(153.5000 mm, 86.0000 mm): Champ référence de R13
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(156.5000 mm, 105.0000 mm): Champ référence de C16
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(158.0000 mm, 86.5000 mm): Champ référence de C7
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(165.5000 mm, 90.5000 mm): Champ référence de C12
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(159.5000 mm, 90.0000 mm): Champ référence de C8
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(152.0000 mm, 99.0000 mm): Champ référence de R7
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(163.5000 mm, 94.5000 mm): Champ référence de R9
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(157.0000 mm, 97.5000 mm): Champ référence de C21
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(169.0000 mm, 103.0000 mm): Champ référence de C19
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(156.5000 mm, 90.0000 mm): Champ référence de C6
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(167.5000 mm, 115.6600 mm): Champ référence de C4
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(162.5000 mm, 90.5000 mm): Champ référence de C10
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(164.5000 mm, 86.5000 mm): Champ référence de C11
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(157.5000 mm, 92.5000 mm): Champ référence de R10
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(167.5000 mm, 82.5000 mm): Champ référence de SW6
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(157.0000 mm, 85.0000 mm): Champ référence de SW4
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(156.5000 mm, 102.0000 mm): Champ référence de C17
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(167.5000 mm, 86.5000 mm): Champ référence de C13
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(146.5000 mm, 96.0000 mm): Champ référence de R6
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(146.5000 mm, 113.0000 mm): Champ référence de R12
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(166.5000 mm, 97.0000 mm): Champ référence de U6
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(168.5000 mm, 90.5000 mm): Champ référence de C14
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(164.5000 mm, 115.6600 mm): Champ référence de C5
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(165.5000 mm, 102.0000 mm): Champ référence de U5
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(161.0000 mm, 109.0000 mm): Champ référence de U3
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(147.0000 mm, 82.5000 mm): Champ référence de SW5
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(146.8000 mm, 98.5000 mm): Champ référence de R14
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(151.0000 mm, 88.0000 mm): Champ référence de R4
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(156.5000 mm, 108.5000 mm): Champ référence de C15
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(150.4666 mm, 100.5000 mm): Champ référence de U2
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(159.0000 mm, 112.5000 mm): Champ référence de C1
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(155.0000 mm, 93.5000 mm): Champ référence de U4
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(146.5000 mm, 86.5000 mm): Champ référence de R5
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(149.5000 mm, 113.0000 mm): Champ référence de R1
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(147.0000 mm, 89.0000 mm): Champ référence de C18
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(162.5000 mm, 96.0000 mm): Champ référence de U7
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(148.0000 mm, 118.0000 mm): Champ référence de R11
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(154.0000 mm, 110.5000 mm): Champ référence de L1
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(161.0000 mm, 86.5000 mm): Champ référence de C9
+[text_height]: Hauteur de texte hors de plage (règle 'Silkscreen text' hauteur min 1,0000 mm; réel 0,8000 mm)
+    Rule: Silkscreen text; warning
+    @(165.5000 mm, 119.5000 mm): Champ référence de USB1
+[lib_footprint_mismatch]: L’empreinte 'IND-SMD_L2.0-W1.6_AOTA-B201610S3R3-101-T' ne correspond pas à la copie en librairie 'EasyEDA'
+    Local override; warning
+    @(154.0000 mm, 112.5000 mm): Empreinte L1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - PTH inside courtyard
+    - NPTH inside courtyard
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
